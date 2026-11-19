@@ -1,3 +1,4 @@
+# Изменение для практической работы №4
 import ast
 import math
 import tkinter as tk
